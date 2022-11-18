@@ -1,0 +1,9 @@
+{
+    "name": "sreji/wbis-framework",
+    "autoload": {
+        "psr-4": {
+            "Sreji\\WbisFramework\\": "src/"
+        }
+    },
+    "require": {}
+}
